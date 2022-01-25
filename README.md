@@ -1,4 +1,4 @@
-# **Group 65 Reproducibility Challenge**
+# **ML Reproducibility Challenge**
 
 ## **Packages Used**
 - PyTorch
