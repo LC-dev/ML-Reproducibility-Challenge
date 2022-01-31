@@ -2,7 +2,8 @@
 
 ## Project Description
 Reproduce and extend experiments and conclusions of a published research paper using their open-source code and deep learning models.
-https://arxiv.org/pdf/2007.05869.pdf
+
+Link to paper: https://arxiv.org/pdf/2007.05869.pdf
 
 ## **Packages Used**
 - PyTorch
